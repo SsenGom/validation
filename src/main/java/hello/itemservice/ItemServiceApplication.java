@@ -13,9 +13,4 @@ public class ItemServiceApplication {
 		SpringApplication.run(ItemServiceApplication.class, args);
 	}
 
-	//공통적용. valid
-//	@Override
-//	public Validator getValidator() {
-//		return new ItemValidator();
-//	}
 }
